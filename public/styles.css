@@ -1,0 +1,18 @@
+#connection-status {
+	 height: 10px;
+}
+.connection-pending {
+	background: #f90; 
+}
+.connection-disconnected {
+	background: #f00; 
+}
+.connection-connected {
+	background: #0a0; 
+}
+#amount-input {
+	padding: 10px;
+	border-radius: 100px;
+	text-align: center;
+	margin-bottom: 20px;
+}
